@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergi Pérez</h1>
-<align="center">Hi there, I'm Sergi Pérez and I'm a computer science student passionate programming, mathematical logic and Machine Learning. I am motivated to learn continuously and contribute to technological progress. I mainly focus on recommendation models, natural language preprocesing and data analysis.</h3>
+<align="center">Hi there, I'm Sergi Pérez and I'm a computer science student passionate about programming, mathematical logic and Machine Learning. I am motivated to learn continuously and contribute to technological progress. I mainly focus on recommendation models, natural language preprocesing and data analysis.</h3>
 
 <h3 align="center">🤝 Connect with me 🤝</h3>
 <p align="center">
